@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+openai
+langchain-openai
+sentence_transformers
+qdrant-client
+python-dotenv
+langchainhub
